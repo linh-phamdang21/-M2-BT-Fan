@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68f83214-00d2-46ce-a09f-1fee75417faf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZlMx5W87aNMtuKzyLnodVYUff" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fan" />
+      <module name="[M2-BT]Fan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f83214-00d2-46ce-a09f-1fee75417faf" name="Default Changelist" comment="" />
+      <created>1585054454323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585054454323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1585128070855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="801" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585128070855" />
+    <state width="680" height="176" key="GridCell.Tab.0.bottom" timestamp="1585129269801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="680" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585129269801" />
+    <state width="680" height="176" key="GridCell.Tab.0.center" timestamp="1585129269801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="680" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585129269801" />
+    <state width="680" height="176" key="GridCell.Tab.0.left" timestamp="1585129269800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="680" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585129269800" />
+    <state width="680" height="176" key="GridCell.Tab.0.right" timestamp="1585129269801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="680" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585129269801" />
+    <state x="131" y="0" key="new project wizard" timestamp="1585124025462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585124025462" />
+    <state x="659" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585128497357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="659" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585128497357" />
+  </component>
+</project>
